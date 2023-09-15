@@ -1,0 +1,177 @@
+@media(min-width: 740px) and (max-width: 1023px){
+    .container{
+        max-width: 100%;
+    }
+    
+    .logo{
+        display: none;
+    }
+    
+    .img-sneaker{
+        display: none;
+    }
+
+    .header-menu .nameshop a{
+        display: inline-block;
+        
+    }
+
+    .sub-menu{
+        margin: 0;
+    }
+
+    .search{
+        /* height: 36px; */
+        width: 181px;
+    }
+
+    .input-search{
+        padding-bottom: 1px;
+    }
+
+    .input-submit-search{
+        bottom: 50px;
+        left: 123px;
+        height: 23px;
+        width: 52px;
+        font-size: 11px;
+    }
+
+    .user{
+        margin-left: 0;
+    }
+
+    .logo-banner{
+        width: 100%;
+        margin: 10px 5%;
+        text-align: center;
+    }
+
+    /* .banner{
+        display: initial;
+        margin-top: 70px;
+    } */
+
+    .logo-banner img{
+        margin: 50px 1%;
+        width: 90%;
+        
+    }
+
+    .content-banner{
+        display: none;
+    }
+
+    .content-sub-logo{
+        flex-wrap: wrap;
+        justify-content:space-between;
+        /* align-content: space-between; */
+        margin: 10%;
+    }
+
+    .content-nike,.content-addias,.content-puma,
+    .content-mlb,.content-gucci,.content-vans{
+        padding: 10px;
+        width: 33.33333%;
+    }
+
+    .content-nike a,.content-addias a,.content-puma a,
+    .content-mlb a,.content-gucci a,.content-vans a{
+        display: inline-block;
+    }
+
+    .content-main-product{
+        margin: 0;
+    }
+
+    .product{
+        margin: 0;
+        width: 33.3333%;
+    }
+
+    .product_list{
+        margin: 54px 54px 30px;
+    }
+
+    .page{
+        margin: 0 30px 30px;
+        padding: 0 50px;
+    }
+
+    .content-main-service{
+        display: none;
+    }
+
+    .content-main-service li{
+        padding: 0;
+        height: 80px;
+    }
+
+    .content-main-service li:first-child{
+        height: auto;
+    }
+
+    .service-exchange ul{
+        width: 70px;
+    }
+
+    .footer{
+        margin: 20px;
+    }
+
+    .head-footer{
+        margin: 50px;
+    }
+
+    .information-shop{
+        margin: 0;
+        width: 50%;
+        padding: 10px;
+        /* text-align: center; */
+        
+    }
+
+    .information-shop ul{
+        display: inline-block;
+        
+    }
+
+    .footer-service{
+        margin: 0;
+        display: none;
+    }
+
+    .social-network{
+        margin: 0;
+        width: 50%;
+        padding: 34px 40px;
+    }
+
+    .social-network-content{
+        text-align: center;
+    }
+
+    .last-footer{
+        margin: 30px;
+        /* display:initial; */
+    }
+
+    .copyright{
+        width: 50%;
+        margin: 1%;
+    }
+
+    .social-extra{
+        margin: 1%;
+        width: 50%;
+        padding: 5px;
+    }
+
+    .social-extra-content img{
+        width: 100%;
+    }
+
+    .social-extra-content li:last-child{
+        display: none;
+    }
+}
