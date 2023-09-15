@@ -208,7 +208,7 @@
                 <input type="submit" name="dangky" value="Đăng Ký">
             </div>
             <div style="padding-top: 15px;padding-left:10px" class="login">
-                <a href="http://localhost:8080/Shop_HD/Homepage/Homepage.php"><i class="fa-regular fa-circle-left"></i></a>
+                <a href="index.php"><i class="fa-regular fa-circle-left"></i></a>
                 <span style="padding-left: 30px;">Bạn đã có tài khoản?</span>
                 <a href="index-home.php?quanly=dangnhap">Đăng nhập</a>
             </div>

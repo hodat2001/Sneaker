@@ -12,7 +12,7 @@
                     
                </div>
                <div class="nameshop">
-                    <a href="homepage.php"><img style="width:100px;margin-top: 20px;margin-left: 25px;margin-right: 10px;" src="./img/logo.png"></a>
+                    <a href="index.php"><img style="width:100px;margin-top: 20px;margin-left: 25px;margin-right: 10px;" src="./img/logo.png"></a>
                 </div>
                <div class="menu">
                     

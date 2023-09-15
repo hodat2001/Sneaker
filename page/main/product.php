@@ -23,7 +23,7 @@
 			<p><i class="fa-solid fa-cart-shopping"></i><input class="" name="themgiohang" type="submit" value="Thêm giỏ hàng"></p>
 			</div>
 			<div class="product-back">
-				<p><a style=" margin-left: 10px;margin-top:20px;margin-right:5px" href="homepage.php"><i class="fa-regular fa-circle-left"></i>Quay về</a></p>
+				<p><a style=" margin-left: 10px;margin-top:20px;margin-right:5px" href="index.php"><i class="fa-regular fa-circle-left"></i>Quay về</a></p>
 			</div>
 			</div>
 		</div>
